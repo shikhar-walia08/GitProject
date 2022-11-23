@@ -8,6 +8,9 @@ function App() {
        <p>push command : git push --set-upstream origin master</p>
       <p>Hello pull </p>
       <h5>jhvcduv</h5>
+      <div>
+        hello this is our main page
+      </div>
     </div>
   );
 }
